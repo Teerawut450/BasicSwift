@@ -21,4 +21,10 @@ nameString = "TeerawutK"
 //myName = "Teerawut450" Cannot Compile Error
 
 
+//Operating
+var answer1: Int = numberInt + 1000 + Int(numberDou)
+
+var number4: String = "500"
+var number5: Int = Int(number4)!
+
 
